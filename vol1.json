@@ -1,6 +1,6 @@
 {
   "vol": 1,
-  "date": "2026-06-28",
+  "date": "2026-07-02",
   "picks": [
     {
       "ticker": "000660",
@@ -12,7 +12,7 @@
       "pb": 1.4,
       "ev_ebitda": 3.1,
       "roic": 16.0,
-      "op_margin": 30,
+      "op_margin": 1290.618,
       "price": null,
       "trend": "widening",
       "moat": "Narrow-Wide",
@@ -50,7 +50,7 @@
       "pb": 0.6,
       "ev_ebitda": null,
       "roic": null,
-      "op_margin": null,
+      "op_margin": 236.505,
       "price": null,
       "trend": "stable",
       "moat": "Narrow",
@@ -88,7 +88,7 @@
       "pb": 0.8,
       "ev_ebitda": null,
       "roic": null,
-      "op_margin": null,
+      "op_margin": 407.437,
       "price": null,
       "trend": "stable",
       "moat": "Narrow",
@@ -107,7 +107,7 @@
       "pb": 1.2,
       "ev_ebitda": 4.8,
       "roic": 9.0,
-      "op_margin": 14,
+      "op_margin": 4857.98,
       "price": null,
       "trend": "stable",
       "moat": "Narrow",
